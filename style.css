@@ -184,16 +184,16 @@ nav{
   background-image: url(./image/sunset-savannah_1048-4710.avif);
 }
 .myanmar{
-  background-image: url(./image/myanmar.jpg);
+  background-image: url(./image/Myanmar.jpg);
 }
 .zambia{
   background-image: url(./image/Zambia.avif);
 }
 .bahrain{
-  background-image: url(./image/bahrain.jpg);
+  background-image: url(./image/Bahrain.jpg);
 }
 .uae{
-  background-image: url(./image/uae.jpg);
+  background-image: url(./image/UAE.jpg);
 }
 
 .country-item:hover .country-name {
